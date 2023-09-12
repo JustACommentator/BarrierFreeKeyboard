@@ -1,0 +1,17 @@
+main.c:756:6:modeTimerCallback	1
+main.c:341:6:SystemClock_Config	3
+main.c:240:5:main	6
+main.c:509:6:initializeDictionary	1
+main.c:513:6:sendCharacter	1
+main.c:745:6:capitalTimerCallback	2
+main.c:530:6:sendMouse	3
+main.c:547:6:sendMouseButtons	7
+main.c:611:6:checkModeSwitch	7
+main.c:627:6:getChar	4
+main.c:725:6:StartInputProcessing	2
+main.c:646:6:getAngleDist	4
+main.c:674:5:getZone	2
+main.c:694:6:StarPollingTask	1
+main.c:682:6:HAL_ADC_ConvCpltCallback	1
+main.c:772:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:789:6:Error_Handler	1
